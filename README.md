@@ -47,4 +47,6 @@
 </div>
 
 ### 🔥 LeetCode Heatmap
+<div>
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Saurav088?theme=dark&ext=heatmap)](https://leetcode.com/u/Saurav088/)
+</div>
