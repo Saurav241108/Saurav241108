@@ -30,6 +30,7 @@
 </div>
 
 ###
+──────────────────────────────────────────────────────────────────────
 <div align="left">
 <h2>🎯 My Goal</h2>
 <p>I aspire to build dynamic full stack applications using Python and contribute to innovative LLM and AI chatbot development.</p>
