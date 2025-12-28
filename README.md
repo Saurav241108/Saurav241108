@@ -11,6 +11,7 @@
 
 <div align="left">
   <h2>🚀 My Interests</h2>
+ ____________________________________________________________________________________ 
 <p>I'm deeply interested in:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
