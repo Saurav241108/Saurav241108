@@ -11,7 +11,7 @@
 
 <div align="left">
     ──────────────────────────────────────────────────────────
-  <h3>🚀 My Interests</h3>
+  <h2>🚀 My Interests</h2>
 
   <p>I'm deeply interested in:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,7 +33,7 @@
 
 <div align="left">
       ──────────────────────────────────────────────────────────────────────
-  <h3>Reach Out</h3>
+  <h2>Reach Out</h2>
   <!-- Instagram --> 
   <a href="https://www.instagram.com/saurav0__8/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
 <!-- Gmail --> 
