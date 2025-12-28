@@ -11,7 +11,7 @@
 
 <div align="left">
     ──────────────────────────────────────────────────────────
-  <h2>🚀 My Interests</h2>
+  <h3>🚀 My Interests</h3>
 
   <p>I'm deeply interested in:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,7 +32,7 @@
 ###
 ──────────────────────────────────────────────────────────────────────
 <div align="left">
-<h2>🎯 My Goal</h2>
+<h3>🎯 My Goal</h3>
 <p>I aspire to build dynamic full stack applications using Python and contribute to innovative LLM and AI chatbot development.</p>
 
 <div align="left">
