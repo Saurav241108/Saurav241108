@@ -10,9 +10,9 @@
 ###
 
 <div align="left">
-  <h2>🚀 My Interests</h2>
- ____________________________________________________________________________________ 
-<p>I'm deeply interested in:</p>
+  <h3>🚀 My Interests</h3>
+  ──────────────
+  <p>I'm deeply interested in:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
