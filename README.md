@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! My name is Saurav</h1>
-<h2 align="left">My name is Saurav Kumar, and I hail from the historic state of Bihar, India. I'm a passionate student currently pursuing B.Tech in Computer Science and Engineering (CSE) at Parul University, Gujarat.</h2>
+<p align="left">My name is Saurav Kumar, and I hail from the historic state of Bihar, India. I'm a passionate student currently pursuing B.Tech in Computer Science and Engineering (CSE) at Parul University, Gujarat.</p>
 
 ###
 
