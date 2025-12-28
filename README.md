@@ -45,8 +45,8 @@
   <!-- LinkedIn --> 
   <a href="https://www.linkedin.com/in/saurav-kumar-864721335/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
 </div>
-
-### 🔥 LeetCode Heatmap
 <div>
+### 🔥 LeetCode Heatmap
+
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Saurav088?theme=dark&ext=heatmap)](https://leetcode.com/u/Saurav088/)
 </div>
