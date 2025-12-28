@@ -2,10 +2,10 @@
 <p align="left">My name is Saurav Kumar, and I hail from the historic state of Bihar, India. I'm a passionate student currently pursuing B.Tech in Computer Science and Engineering (CSE) at Parul University, Gujarat.</p>
 
 ###
-
+<div>
 <img align="right" height="150" src="https://i.pinimg.com/236x/ff/10/60/ff1060939b9bc96f5be5cb21bd85bbe7.jpg"  />
 
-
+</div>
 
 ###
 
