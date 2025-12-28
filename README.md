@@ -51,9 +51,6 @@
 
 ###
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/saurav0__8/saurav0__8/output/snake-dark.svg" alt="Snake animation" />
+https://raw.githubusercontent.com/saurav0__8/saurav0__8/output/snake.svg
 
 ###
